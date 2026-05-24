@@ -25,14 +25,16 @@ software engineering student / ui/ux focus
 <br><br>
 
 ### 💿 ｐｒｏｊｅｃｔｓ
-
-**[ outfit platform ]** ⋆ collaborative full-stack digital wardrobe  
-**[ kiri ]** ⋆ japanese-themed web card game with gacha mechanics  
+ 
+**[ kiri ]** ⋆ japanese-themed web card game with gacha mechanics - vanila js/css/html
 **[ nodo ]** ⋆ clean wpf desktop messaging app  
+**[ endgame ]** ⋆ retro pixel-art fantasy platformer on C + raylib  
 
 <br>
 
 ### ✉️ ｃｏｎｔａｃｔ
 
+<a href="https://www.linkedin.com/in/nikol-nakonechna-a72499348/"><img src="https://img.shields.io/badge/linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/portfolio-151515?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
