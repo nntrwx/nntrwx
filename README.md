@@ -42,6 +42,6 @@ software engineering student / ui/ux focus
 ### ✉️ ｃｏｎｔａｃｔ
 
 <a href="https://www.linkedin.com/in/nikol-nakonechna-a72499348/"><img src="https://img.shields.io/badge/linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/portfolio-151515?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://nntrwx.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-151515?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
