@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="header.gif" width="350" />
+
+<br>
+
 # ⋆ ˚｡⋆୨୧˚ ｎｉｋｏｌ ˚୨୧⋆｡˚ ⋆
 
 *front-end developer & ui/ux enthusiast*  
